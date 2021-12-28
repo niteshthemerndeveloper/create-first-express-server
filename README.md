@@ -6,7 +6,7 @@ Follow these 3 Steps to get started;
 
 **We can Now run JavaScript without embedding it into any `html` file**
 
-1. Open the `git bash` terminal/prompt and type
+2. Open the `git bash` terminal/prompt and type
 
 ```npm
   npm init -y
@@ -20,6 +20,6 @@ _Install Express Dependency by using below cmd_
   npm install express
 ```
 
-1. Now, to write your first backend server program. Check out the `server.js` file available in this repository.
+3. Now, to write your first backend server program. Check out the `server.js` file available in this repository.
 
 > Thank You!
