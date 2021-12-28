@@ -1,0 +1,15 @@
+{
+  "name": "my-first-express-server",
+  "version": "28.12.2021",
+  "description": "This is the first express server which I created while learning MERN Stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Nitesh Sharma",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
